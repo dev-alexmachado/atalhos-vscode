@@ -1,8 +1,13 @@
 # Atalhos Visual Studio Code
 
+<div align="center">
+    <img src="image.png" width="100" alt="logo">
+</div>
+
 ## Acesso a ferramentas do VSCode
 
 - `Ctrl+,`: configurações.
+- `Ctrl+-` ou `+`: zoom da janela.
 - `Ctrl+Alt+;`: abre navegador de Internet do VSCode.
 - `Ctrl+Alt+I`: abre o chat do copilot.
 - `Ctrl+B`: abre/fecha barra lateral primária.
@@ -40,6 +45,7 @@
 
 ## Terminal
 
+- `Ctrl+5`: dividir o terminal.
 - `Ctrl+C`: interrompe a execução de comando no terminal.
 - `Ctrl+'`: alterna cursor do teclado entre código-fonte e terminal.
 - `Ctrl+J` ou `Ctrl+Shift+'`: abre/oculta terminal.
