@@ -16,6 +16,20 @@
 - `F1` ou `Ctrl+Shift+P`: acessa paleta de comandos do VSCode.
 - `F11`: tela inteira.
 
+## Configuração ideal para desenvolvimento
+
+- Acessar configurações: `Ctrl+,`.
+- Files: Auto Save: `afterDelay`.
+- Editor: Word Wrap: `on`.
+- Editor > Inlay Hints: `off` (para o Java em sala de aula).
+- Terminal > Integrated > Default Profile: Windows: `Command Prompt` (para o Python em sala de aula).
+
+### Marcações:
+
+- [ ] Explorer: Compact Folders (desmarcado)
+- [x] HTML: Auto Closing Tags (marcado)
+- [x] Editor: Linked Editing (marcado)
+
 ## Código-fonte
 
 - `Alt+Clique`: adiciona um novo cursor no local exato onde você clicou.
