@@ -2,6 +2,9 @@
 
 <div align="center">
     <img src="image.png" width="100" alt="logo">
+    <br>
+    <br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/1.135.0-444444?style=plastic&label=Visual%20Studio%20Code&labelColor=0078d7">
 </div>
 
 ## Acesso a ferramentas do VSCode
@@ -63,3 +66,4 @@
 - `Ctrl+C`: interrompe a execução de comando no terminal.
 - `Ctrl+'`: alterna cursor do teclado entre código-fonte e terminal.
 - `Ctrl+J` ou `Ctrl+Shift+'`: abre/oculta terminal.
+- `exit` (digitar no terminal): encerra o terminal ativo.
